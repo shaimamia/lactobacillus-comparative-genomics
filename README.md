@@ -30,7 +30,7 @@ Ce projet compare **3 souches différentes** de *Lactobacillus bulgaricus* en ut
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/chaimae-saihi/lactobacillus-comparative-genomics.git
+git clone https://github.com/shaimamia/lactobacillus-comparative-genomics.git
 cd lactobacillus-comparative-genomics
 ```
 
