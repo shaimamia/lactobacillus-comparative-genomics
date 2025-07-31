@@ -1,0 +1,29 @@
+=== RAPPORT D'ANALYSE GÉNOMIQUE ===
+Date: 16/07/2025 02:26
+Projet: Lactobacillus bulgaricus - Génomique comparative
+
+SOUCHES ANALYSÉES:
+
+ATCC11842:
+  - Taille: 5,486,145 bp (5.49 Mb)
+  - Contigs: 3
+  - GC: 38.4%
+  - N50: 5,354,700 bp
+
+DSM20081:
+  - Taille: 3,075,806 bp (3.08 Mb)
+  - Contigs: 3
+  - GC: 32.8%
+  - N50: 3,043,210 bp
+
+CNCM1519:
+  - Taille: 2,160,842 bp (2.16 Mb)
+  - Contigs: 1
+  - GC: 39.7%
+  - N50: 2,160,842 bp
+
+STATISTIQUES COMPARATIVES:
+  - Taille moyenne: 3,574,264 bp
+  - GC moyen: 37.0%
+  - Variation de taille: 1,717,776 bp
+  - Variation GC: 3.67%

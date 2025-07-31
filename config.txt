@@ -1,0 +1,34 @@
+# Configuration du projet Lactobacillus bulgaricus
+# Date de configuration: Mar 15 jul 2025 22:56:08 CEST
+
+# Informations du projet
+PROJECT_NAME=lactobacillus-comparative-genomics
+PROJECT_VERSION=1.0
+AUTHOR=[Votre Nom]
+
+# Souches analysées
+STRAIN1=ATCC11842
+STRAIN1_ACCESSION=GCF_000196515.1
+STRAIN1_DESCRIPTION=Souche type de référence
+
+STRAIN2=DSM20081  
+STRAIN2_ACCESSION=GCF_000027045.1
+STRAIN2_DESCRIPTION=Souche commerciale
+
+STRAIN3=CNCM1519
+STRAIN3_ACCESSION=GCF_000006865.2
+STRAIN3_DESCRIPTION=Souche probiotique
+
+# Paramètres d'analyse
+THREADS=4
+MIN_IDENTITY=90
+BLASTP_EVALUE=1e-6
+
+# Dossiers
+GENOMES_DIR=data/genomes
+ANNOTATIONS_DIR=data/annotations
+RESULTS_DIR=data/results
+LOGS_DIR=logs
+
+# URLs de base
+NCBI_BASE_URL=https://ftp.ncbi.nlm.nih.gov/genomes/all

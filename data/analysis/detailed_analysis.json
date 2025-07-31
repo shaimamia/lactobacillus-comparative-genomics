@@ -1,0 +1,85 @@
+[
+  {
+    "strain_name": "ATCC11842",
+    "file_path": "data/genomes/LB_ATCC11842.fna",
+    "analysis_date": "2025-07-16T02:26:41.355659",
+    "num_contigs": 3,
+    "contig_lengths": [
+      5354700,
+      109570,
+      21875
+    ],
+    "contig_names": [
+      "NC_014248.1",
+      "NC_014249.1",
+      "NC_014250.1"
+    ],
+    "total_length": 5486145,
+    "longest_contig": 5354700,
+    "shortest_contig": 21875,
+    "mean_contig_length": 1828715.0,
+    "median_contig_length": 109570.0,
+    "n50": 5354700,
+    "gc_content": 38.373666755071184,
+    "a_count": 1691228,
+    "t_count": 1689682,
+    "g_count": 1053851,
+    "c_count": 1051384,
+    "n_count": 0,
+    "at_content": 61.62633324492882
+  },
+  {
+    "strain_name": "DSM20081",
+    "file_path": "data/genomes/LB_DSM20081.fna",
+    "analysis_date": "2025-07-16T02:26:41.521505",
+    "num_contigs": 3,
+    "contig_lengths": [
+      3043210,
+      29585,
+      3011
+    ],
+    "contig_names": [
+      "NC_017331.1",
+      "NC_017352.1",
+      "NC_017332.1"
+    ],
+    "total_length": 3075806,
+    "longest_contig": 3043210,
+    "shortest_contig": 3011,
+    "mean_contig_length": 1025268.6666666666,
+    "median_contig_length": 29585.0,
+    "n50": 3043210,
+    "gc_content": 32.778660292619236,
+    "a_count": 1028617,
+    "t_count": 1038981,
+    "g_count": 503280,
+    "c_count": 504928,
+    "n_count": 0,
+    "at_content": 67.22133970738076
+  },
+  {
+    "strain_name": "CNCM1519",
+    "file_path": "data/genomes/LB_CNCM1519.fna",
+    "analysis_date": "2025-07-16T02:26:41.618405",
+    "num_contigs": 1,
+    "contig_lengths": [
+      2160842
+    ],
+    "contig_names": [
+      "NC_003028.3"
+    ],
+    "total_length": 2160842,
+    "longest_contig": 2160842,
+    "shortest_contig": 2160842,
+    "mean_contig_length": 2160842.0,
+    "median_contig_length": 2160842.0,
+    "n50": 2160842,
+    "gc_content": 39.69725690263333,
+    "a_count": 653879,
+    "t_count": 649168,
+    "g_count": 430999,
+    "c_count": 426796,
+    "n_count": 0,
+    "at_content": 60.30274309736667
+  }
+]

@@ -1,0 +1,18 @@
+=== RAPPORT DE COMPARAISON GÉNOMIQUE ===
+Date: 16/07/2025 02:26
+Projet: Lactobacillus bulgaricus - Génomique comparative
+
+GÉNOMES COMPARÉS:
+  - ATCC11842: 5,486,145 bp
+  - DSM20081: 3,075,806 bp
+  - CNCM1519: 2,160,842 bp
+
+MÉTHODES DE COMPARAISON:
+  - Profils de k-mers (k=4): Composition en tétranucléotides
+  - Similarité de séquence: Correspondances par fenêtres
+  - Contenu GC: Corrélation des profils GC
+  - Taille relative: Similarité basée sur la taille
+
+RÉSULTATS PRINCIPAUX:
+  - Similarité moyenne: 0.524
+  - Distance moyenne: 0.476

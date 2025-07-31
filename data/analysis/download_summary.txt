@@ -1,0 +1,26 @@
+=== RÉSUMÉ DU TÉLÉCHARGEMENT ===
+Date: Mer 16 jul 2025 02:26:40 CEST
+Projet: Lactobacillus bulgaricus - Génomique comparative
+
+STATUT DES TÉLÉCHARGEMENTS:
+
+Souche: ATCC11842
+  Fichier: data/genomes/LB_ATCC11842.fna
+  Taille: 5,3M
+  Contigs: 3
+  Bases totales:  5486145 bp
+  Statut: ✅ SUCCÈS
+
+Souche: DSM20081
+  Fichier: data/genomes/LB_DSM20081.fna
+  Taille: 3,0M
+  Contigs: 3
+  Bases totales:  3075806 bp
+  Statut: ✅ SUCCÈS
+
+Souche: CNCM1519
+  Fichier: data/genomes/LB_CNCM1519.fna
+  Taille: 2,1M
+  Contigs: 1
+  Bases totales:  2160842 bp
+  Statut: ✅ SUCCÈS

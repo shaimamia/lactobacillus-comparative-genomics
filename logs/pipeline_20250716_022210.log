@@ -1,0 +1,20 @@
+[2025-07-16 02:22:10] [INFO] Vérification de l'environnement...
+[2025-07-16 02:22:12] [SUCCESS] Environnement vérifié et prêt
+[2025-07-16 02:22:12] [SUCCESS] Tous les prérequis sont satisfaits
+[2025-07-16 02:22:12] [INFO] === DÉBUT DU PIPELINE DE GÉNOMIQUE COMPARATIVE ===
+[2025-07-16 02:22:12] [INFO] Projet: Lactobacillus bulgaricus - Version Python native
+[2025-07-16 02:22:12] [INFO] Système: Darwin arm64
+[2025-07-16 02:22:12] [INFO] Python: Python 3.9.23
+[2025-07-16 02:22:22] [STEP] Début étape 1: Téléchargement des génomes depuis NCBI
+[2025-07-16 02:22:28] [SUCCESS] Téléchargement des génomes - RÉUSSI
+[2025-07-16 02:22:28] [STEP] Début étape 2: Analyse des séquences avec Biopython
+[2025-07-16 02:22:30] [SUCCESS] Analyse des séquences - RÉUSSI
+[2025-07-16 02:22:30] [STEP] Début étape 3: Comparaison génomique et phylogénie
+[2025-07-16 02:22:34] [SUCCESS] Comparaison génomique - RÉUSSI
+[2025-07-16 02:22:34] [STEP] Début étape 4: Création des visualisations et du rapport
+[2025-07-16 02:22:35] [SUCCESS] Visualisation et rapport - RÉUSSI
+[2025-07-16 02:22:35] [SUCCESS] Script de consultation créé: view_results.sh
+[2025-07-16 02:22:35] [SUCCESS] === PIPELINE TERMINÉ AVEC SUCCÈS ===
+[2025-07-16 02:22:35] [INFO] Durée totale: 23 secondes
+[2025-07-16 02:22:35] [INFO] Fichiers générés dans: data/results
+[2025-07-16 02:22:35] [INFO] Log complet: logs/pipeline_20250716_022210.log

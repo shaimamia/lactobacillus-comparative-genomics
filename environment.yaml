@@ -1,0 +1,24 @@
+name: lacto-genomics
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Core tools
+  - python=3.9
+  - wget
+  - curl
+  
+  # Python packages for analysis
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - biopython
+  - plotly
+  - scipy
+  
+  # Additional pip packages
+  - pip
+  - pip:
+    - matplotlib-venn
